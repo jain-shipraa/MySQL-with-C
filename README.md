@@ -1,2 +1,2 @@
 # MySQL-with-C
-Implementing SQL queries in C language
+Implementing Socket Programming as well as SQL queries in C language
